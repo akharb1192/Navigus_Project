@@ -1,6 +1,6 @@
 # Navigus Scheduler 
 
-This application is developed in interest of scheduling of events of particular people for a common task so they can visualluy see other schedules and they don't collide with each other
+This application is developed in interest of scheduling of events of particular people for a common task so they can visually see other schedules and they don't collide with each other
 
 A working version of this application is deployed at https://navigusmaster.herokuapp.com/
 
