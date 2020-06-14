@@ -1,4 +1,3 @@
-# Navigus_Project
 # Navigus Scheduler 
 
 This application is developed in interest of scheduling of events of particular people for a common task so they can visualluy see other schedules and they don't collide with each other
@@ -38,18 +37,21 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authentication Page
 
+```
 ![git1](https://user-images.githubusercontent.com/40290144/84584943-d0e75300-ae27-11ea-87c8-be9d0b7cfc7d.JPG)
+```
 
 ### Home Page with name and picture of the user account 
 
-
+```
 ![git2](https://user-images.githubusercontent.com/40290144/84584980-1dcb2980-ae28-11ea-81ee-a4ccad6e94c4.JPG)
-
+```
 
 ### Calendar events can viewed by means of day, month etc.
 
+```
 ![git3](https://user-images.githubusercontent.com/40290144/84585016-a944ba80-ae28-11ea-93f1-28ca7e3372f7.JPG)
-
+```
 
 ## Deployment
 
