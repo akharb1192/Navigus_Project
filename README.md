@@ -75,6 +75,7 @@ git add .
 git commit -m"Initial Commit"
 ```
 Deploy the application using the following command
+
 Scale the dynos to ensure atleast one instance of application is running
 
 ```
