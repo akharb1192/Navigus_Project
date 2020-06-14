@@ -2,6 +2,8 @@
 
 This application is developed in interest of scheduling of events of particular people for a common task so they can visualluy see other schedules and they don't collide with each other
 
+A working version of this application is deployed at https://navigusmaster.herokuapp.com/
+
 ## Getting Started
 
 Following are the details you need to run the project
