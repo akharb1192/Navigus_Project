@@ -14,6 +14,9 @@ What things you need to install the software and how to install them
 ```
 NodeJS
 Use React Library
+Firebase
+Heroku
+Set the firebase authentication using Google, Facebook, Github, and via Email
 ```
 
 ### Installing
@@ -57,6 +60,34 @@ Give an example
 
 Deploy the application on Heroku. Heroku gives platform as a service for deployment of cloud based applications.
 
+Navigate to the project and initialize a git repository 
+Login to Heroku via CLI
+Confirm on the browser window
+```
+cd navigus
+git init
+heroku login
+```
+Add the files to the git
+Commit the status there with a message
+
+```
+git add .
+git commit -m"Initial Commit"
+```
+Deploy the application using the following command
+Scale the dynos to ensure atleast one instance of application is running
+
+```
+git push heroku master
+heroku ps:scale web=1
+```
+Open the application via following command or link provided at the CLI
+
+```
+heroku open
+```
+
 ## Built With
 
 * [ReactJS](https://github.com/facebook/create-react-app) - The web framework used
@@ -66,9 +97,8 @@ Deploy the application on Heroku. Heroku gives platform as a service for deploym
 
 ## Authors
 
-* **Ankit** - *Initial work* - [Ankit](https://github.com/akharb1192)
+* **Ankit** - *Student, Developer* - [Ankit](https://github.com/akharb1192)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 
 ## Acknowledgments
