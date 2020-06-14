@@ -87,6 +87,11 @@ Open the application via following command or link provided at the CLI
 heroku open
 ```
 
+## About data
+
+The data about the schedules in the project is static and is saved as an XML file on the web. We can extend the project by writing the module to write to a particular file on setting the event and accessing the same for showing it to the users.
+
+
 ## Built With
 
 * [ReactJS](https://github.com/facebook/create-react-app) - The web framework used
