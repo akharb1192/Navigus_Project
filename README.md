@@ -96,7 +96,7 @@ The data about the schedules in the project is static and is saved as an XML fil
 ## Built With
 
 * [ReactJS](https://github.com/facebook/create-react-app) - The web framework used
-* [Syncfusion](https://www.npmjs.com/package/@syncfusion/ej2) - Dependency Management
+* [Syncfusion](https://www.npmjs.com/package/@syncfusion/ej2) - Calender Dependency
 * [Heroku](https://www.heroku.com/) - Used to Deploy the Project
  
 
