@@ -1,34 +1,34 @@
 # Navigus_Project
-# Project Title
+# Navigus Scheduler 
 
-One Paragraph of project description goes here
+This application is developed in interest of scheduling of events of particular people for a common task so they can visualluy see other schedules and they don't collide with each other
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Following are the details you need to run the project
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 ```
-Give examples
+NodeJS
+Use React Library
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+```
+cd navigus
+npm install
+```
+
+and then run the server on localhost port 
 
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+npm start
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
